@@ -1,0 +1,53 @@
+[
+    {
+      "name": "Apple",
+      "quantity": 12,
+      "price": 10.5
+    },
+    {
+      "name": "Banana",
+      "quantity": 12,
+      "price": 8.2
+    },
+    {
+      "name": "Orange",
+      "quantity": 12,
+      "price": 6.0
+    },
+    {
+      "name": "Grapes",
+      "quantity": 12,
+      "price": 12.8
+    },
+    {
+      "name": "Strawberry",
+      "quantity": 12,
+      "price": 15.3
+    },
+    {
+      "name": "Pineapple",
+      "quantity": 12,
+      "price": 9.7
+    },
+    {
+      "name": "Mango",
+      "quantity": 12,
+      "price": 13.6
+    },
+    {
+      "name": "Peach",
+      "quantity": 12,
+      "price": 7.4
+    },
+    {
+      "name": "Cherry",
+      "quantity": 12,
+      "price": 11.1
+    },
+    {
+      "name": "Watermelon",
+      "quantity": 12,
+      "price": 5.5
+    }
+  ]
+  
